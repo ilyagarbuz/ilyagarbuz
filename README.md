@@ -6,4 +6,4 @@ Full-stack developer based in Minsk, Belarus. Building with Vue, Nuxt.js, and Ty
 [![Website](https://img.shields.io/badge/Website-7ce3ac?style=flat-square)](https://ilyagarbuz.netlify.app/)
 
 ### Latest Blog Post
-- [Chrome 147: Widget Morphing, Smart Contrast, and Rust Under the Hood](https://ilyagarbuz.netlify.app/blog/chrome-147/)
+- [Mastering Nginx Log Analysis: 10 Essential CLI Commands for Developers](https://ilyagarbuz.netlify.app/blog/nginx-log/)
