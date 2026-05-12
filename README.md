@@ -6,4 +6,4 @@ Full-stack developer based in Minsk, Belarus. Building with Vue, Nuxt.js, and Ty
 [![Website](https://img.shields.io/badge/Website-7ce3ac?style=flat-square)](https://ilyagarbuz.netlify.app/)
 
 ### Latest Blog Post
-- [How I Learned to Stop Worrying and Love SVG: A Hands-On Guide](https://ilyagarbuz.netlify.app/blog/svg-cheat-sheet/)
+- [Chrome 148: Container Queries Without Types, AI in the Browser, and SharedWorker’s Comeback](https://ilyagarbuz.netlify.app/blog/chrome-148/)
